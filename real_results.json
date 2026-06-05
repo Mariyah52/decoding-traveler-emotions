@@ -1,0 +1,30 @@
+[
+  {
+    "Model": "VADER (Baseline)",
+    "Accuracy": 0.5633,
+    "Precision": 0.2651,
+    "Recall": 0.3193,
+    "F1": 0.2728
+  },
+  {
+    "Model": "LR + TF-IDF",
+    "Accuracy": 0.7267,
+    "Precision": 0.5342,
+    "Recall": 0.4897,
+    "F1": 0.4826
+  },
+  {
+    "Model": "BiLSTM",
+    "Accuracy": 0.6133,
+    "Precision": 0.3461,
+    "Recall": 0.3465,
+    "F1": 0.2911
+  },
+  {
+    "Model": "BERT (fine-tuned)",
+    "Accuracy": 0.5167,
+    "Precision": 0.2827,
+    "Recall": 0.3282,
+    "F1": 0.3036
+  }
+]
