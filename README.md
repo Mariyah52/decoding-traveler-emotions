@@ -11,11 +11,8 @@ I analyzed travel blogs to understand how travelers express **joy, frustration, 
 - `Travel Sentiment NLP Aziz2024.ipynb` – main notebook
 - `bert_training_logs.csv` – BERT training metrics
 - `bert_confusion_matrix.csv` – evaluation results  
-- `figure1_bert_confusion_matrix.png` to `figure4` – plots
+- `figure1_bert_confusion_matrix.png` to `figure4_sentiment_distribution.png` - plots
 - `LICENSE` – MIT
 
 ### Tools
 Python · PyTorch · Transformers · Keras · Pandas · Matplotlib
-
-### Link for LinkedIn
-https://github.com/Mariyah52/decoding-traveler-emotions
